@@ -10,6 +10,12 @@ namespace Tareas1raSemana
     {
         static void Main(string[] args)
         {
+            var persona = new Personas();
+            var estudiante = new Estudiantes();
+            var profesor = new Profesores();
+
+            estudiante.Caminar();
+            profesor.Comer();
         }
     }
 }

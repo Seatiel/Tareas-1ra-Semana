@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CA092C99-793A-49DB-B033-DC513F0288C9}</ProjectGuid>
+    <ProjectGuid>{CACB0CC4-C05F-48AD-B39B-67E8DC611413}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tareas1raSemana</RootNamespace>
-    <AssemblyName>Tareas1raSemana</AssemblyName>
+    <RootNamespace>NumeroPerfecto</RootNamespace>
+    <AssemblyName>NumeroPerfecto</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
